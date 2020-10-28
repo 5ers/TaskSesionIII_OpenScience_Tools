@@ -1,10 +1,6 @@
-# Task Session III Team fivers
+# Task Session III- Open Science 2020
 
-## Group 5 CRI Master AIRE Open Science 2020
-
-![](https://zenodo.org/badge/doi/10.5281/zenodo.4147334.svg)
-
-[Link Zenodo](https://zenodo.org/record/4147334#.X5mzJVB7nIU)
+## Group 5 - 5ers -FIVERS
 
 ## Content 
 
@@ -12,9 +8,14 @@ This repository containing the files:
 
 1. Report of the projects evaluarion under the Vienna principles framework
 
-2. Database of the quantitative evaluation 
+2. Database 
 
 3. Bibliography library
+
+4. ![](https://zenodo.org/badge/doi/10.5281/zenodo.4147334.svg) 
+
+5. [Link Zenodo](https://zenodo.org/record/4147334#.X5mzJVB7nIU)
+
 
 
 ## Tools used

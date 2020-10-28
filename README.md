@@ -1,6 +1,6 @@
 # Task Session III Team fivers
 
-**Group 5 CRI Master AIRE Open Science 2020**
+## Group 5 CRI Master AIRE Open Science 2020
 
 ## DOI
 ![](https://zenodo.org/badge/doi/10.5281/zenodo.4147334.svg)

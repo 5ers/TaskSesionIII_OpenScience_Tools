@@ -2,7 +2,6 @@
 
 ## Group 5 CRI Master AIRE Open Science 2020
 
-## DOI
 ![](https://zenodo.org/badge/doi/10.5281/zenodo.4147334.svg)
 
 [Link Zenodo](https://zenodo.org/record/4147334#.X5mzJVB7nIU)

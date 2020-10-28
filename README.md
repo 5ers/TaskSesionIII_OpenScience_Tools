@@ -6,7 +6,7 @@
 
 This repository containing the files:
 
-1. Report of the projects evaluarion under the Vienna principles framework
+1. :books: Report of the projects evaluarion under the Vienna principles framework
 
 2. Database 
 
@@ -21,6 +21,7 @@ This repository containing the files:
 ## Tools used
 Markdown Interactive Tutorial <https://commonmark.org/help/tutorial/07-links.html
 
+Emojis <https://gist.github.com/parmentf/035de27d6ed1dce0b36a
 
 ## Master AIRE
 ![](https://cri-paris.org/user/themes/cri/images/CRI-sm.png)

@@ -21,7 +21,7 @@ This repository containing the files:
 Markdown Interactive Tutorial <https://commonmark.org/help/tutorial/07-links.html
 
 
-## FIRE Master
+## Master AIRE
 ![](https://cri-paris.org/user/themes/cri/images/CRI-sm.png)
 
 

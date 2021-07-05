@@ -1,6 +1,6 @@
-# Task Session III- Open Science 2020
+# Open Science 2020
 
-## Group 5 - 5ers -FIVERS
+## 5ers -FIVERS
 
 ## Content 
 
